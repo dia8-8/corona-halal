@@ -4,7 +4,7 @@ const Hero = () => {
       <div className="absolute inset-0">
         <img
           className="w-full h-[600px] object-cover"
-          src="./src/assets/hero.avif"
+          src="./hero.avif"
           alt="Butcher shop"
         />
         <div className="absolute inset-0 bg-gray-900 opacity-75"></div>

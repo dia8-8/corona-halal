@@ -11,21 +11,21 @@ const products = [
     name: 'Fresh Chicken',
     description: 'Free-range, locally sourced chicken',
     price: '$7.99/kg',
-    image: './src/assets/chicken.jpg',
+    image: './chicken.jpg',
   },
   {
     id: 3,
     name: 'Lamb Chops',
     description: 'Tender and juicy lamb chops',
     price: '$29.99/kg',
-    image: './src/assets/lambchops.jpg',
+    image: './lambchops.jpg',
   },
   {
     id: 4,
     name: 'Premium Chicken Cuts',
     description: 'Quality chicken cuts for every occasion',
     price: '$8.99/kg',
-    image: './src/assets/chicken2.jpg',
+    image: './chicken2.jpg',
   },
 ];
 
