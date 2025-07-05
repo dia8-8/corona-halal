@@ -9,10 +9,10 @@ const Footer = () => {
         </div>
         <div className="mt-8 md:flex md:items-center md:justify-between">
           <div className="flex justify-center space-x-6 md:order-2">
-            <a href="#" className="text-gray-400 hover:text-gray-300">
+            <a href="https://www.instagram.com/viandes.corona/" className="text-gray-400 hover:text-gray-300">
               Instagram
             </a>
-            <a href="#" className="text-gray-400 hover:text-gray-300">
+            <a href="https://www.facebook.com/profile.php?id=100063142185092" className="text-gray-400 hover:text-gray-300">
               Facebook
             </a>
           </div>
