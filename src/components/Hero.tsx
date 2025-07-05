@@ -1,10 +1,12 @@
+import hero from '/src/assets/hero.avif';
+
 const Hero = () => {
   return (
     <div id="home" className="relative pt-16">
       <div className="absolute inset-0">
         <img
           className="w-full h-[600px] object-cover"
-          src="./hero.avif"
+          src={hero}
           alt="Butcher shop"
         />
         <div className="absolute inset-0 bg-gray-900 opacity-75"></div>

@@ -1,3 +1,7 @@
+import chicken from '/src/assets/chicken.jpg';
+import lamb from '/src/assets/lambchops.jpg';
+import chicken2 from '/src/assets/chicken2.jpg';
+
 const products = [
   {
     id: 1,
@@ -11,21 +15,21 @@ const products = [
     name: 'Fresh Chicken',
     description: 'Free-range, locally sourced chicken',
     price: '$7.99/kg',
-    image: './chicken.jpg',
+    image: chicken,
   },
   {
     id: 3,
     name: 'Lamb Chops',
     description: 'Tender and juicy lamb chops',
     price: '$29.99/kg',
-    image: './lambchops.jpg',
+    image: lamb,
   },
   {
     id: 4,
     name: 'Premium Chicken Cuts',
     description: 'Quality chicken cuts for every occasion',
     price: '$8.99/kg',
-    image: './chicken2.jpg',
+    image: chicken2,
   },
 ];
 
